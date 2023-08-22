@@ -1,0 +1,29 @@
+h1 {
+    background: green;
+}
+
+.text-1 {
+    background: blue;
+    font-size: 32pt;
+    color: yellow;
+}
+
+.text-2 {
+    border: 10px solid yellow;
+    border-radius: 15px;
+    font-size: 24pt;
+    margin-bottom: 50px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+}
+
+.text-3 {
+    font-weight: bold;
+    font-size: 22px;
+    font-family: 'Courier New';
+}
+
+.text-4 {
+    font-size: 24pt;
+    text-shadow: 0.2em 0.2em 5px green;
+}
